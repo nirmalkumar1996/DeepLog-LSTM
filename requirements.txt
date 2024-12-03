@@ -1,0 +1,6 @@
+torch
+boto3
+spellpy
+streamlit
+openai==0.28.0
+reportlab
