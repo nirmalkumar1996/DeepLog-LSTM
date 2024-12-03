@@ -54,6 +54,7 @@
 
 
 ## Folder Structure
+```sh
 .
 ├── README.md
 ├── deeplog
@@ -71,4 +72,5 @@
 │   ├── train.py
 │   └── frontend.py
 └── requirements.txt
+```
 
